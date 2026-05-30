@@ -8,7 +8,7 @@ const productsData = [
         flavor: "Unflavoured",
         serves: 30,
         serveSize: "33g",
-        price: 2700,
+        price: 2699,
         image: "p1.png"
     },
     {
@@ -19,7 +19,7 @@ const productsData = [
         flavor: "Unflavoured",
         serves: 16,
         serveSize: "31g",
-        price: 2000,
+        price: 1999,
         image: "p2.png"
     },
     {
@@ -30,7 +30,7 @@ const productsData = [
         flavor: "Cocoa Flavour",
         serves: 30,
         serveSize: "33g",
-        price: 2700,
+        price: 2699,
         image: "p3.png"
     },
     {
@@ -41,7 +41,7 @@ const productsData = [
         flavor: "Unflavoured",
         serves: 16,
         serveSize: "31g",
-        price: 2000,
+        price: 1999,
         image: "p4.png"
     }
 ];
